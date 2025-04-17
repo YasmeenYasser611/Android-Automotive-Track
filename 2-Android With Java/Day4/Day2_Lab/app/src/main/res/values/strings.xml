@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Day2_Lab</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="message">Message</string>
+    <string name="btnNext">Next</string>
+    <string name="btnExit">Exit</string>
+    <string name="back">Back</string>
+    <string name="W_sh">W_sh</string>
+    <string name="R_SH">R_SH</string>
+    <string name="W_IS">W_IS</string>
+    <string name="R_IS">R_IS</string>
+    <string name="w_DB">w_DB</string>
+    <string name="R_DB">R_DB</string>
+    <string name="n_a">N/A</string>
+</resources>
