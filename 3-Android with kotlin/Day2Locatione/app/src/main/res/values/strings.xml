@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day2-Locatione</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="openinmap">Open in Map</string>
+    <string name="openinsms">Open in SMS\n</string>
+</resources>
