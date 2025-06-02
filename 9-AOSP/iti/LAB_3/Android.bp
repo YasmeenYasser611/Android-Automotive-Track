@@ -1,0 +1,8 @@
+cc_binary {
+    name: "ledService",
+    include_dirs: ["vendor/iti/LIBS/LIBS_GPIO_HAL/inc",],
+    srcs: ["src/*.cpp",],
+    shared_libs: ["libc++","gpiolib","liblog",],
+    vendor:true,
+    init_rc: ["init.ledService.rc"]
+}

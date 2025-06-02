@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Day2_Lab</string>
-    <string name="mobile_number">Mobile Number</string>
-    <string name="message">Message</string>
-    <string name="btnNext">Next</string>
-    <string name="btnExit">Exit</string>
-    <string name="back">Back</string>
-</resources>

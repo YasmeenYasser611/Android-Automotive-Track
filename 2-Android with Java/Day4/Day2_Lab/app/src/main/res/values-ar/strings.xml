@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="W_sh">W_sh</string>
+    <string name="R_SH">R_SH</string>
+    <string name="W_IS">W_IS</string>
+    <string name="R_IS">R_IS</string>
+    <string name="w_DB">w_DB</string>
+    <string name="R_DB">R_DB</string>
+    <string name="n_a">N/A</string>
+</resources>

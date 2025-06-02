@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Products</string>
+
+    <string name="exit">Exit</string>
+    <string name="mainui">Go To Main UI</string>
+    <string name="favui">Go To Favorite Page</string>
+    <string name="Del">delete from Fav</string>
+    <string name="AddToFav">Add To Fav</string>
+
+</resources>

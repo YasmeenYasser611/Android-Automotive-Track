@@ -1,0 +1,6 @@
+
+type ledService,domain;
+type ledService_exec, exec_type, file_type;
+
+type_transition init ledService_exec:process ledService;
+allow init ledService_exec:file {read execute};

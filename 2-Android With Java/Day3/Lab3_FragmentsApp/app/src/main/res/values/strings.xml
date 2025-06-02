@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Lab3_FragmentsApp</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_Static_fragment">Hello Static fragment</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_Dynamic_fragment">Hello Dynamic fragment</string>
-    <string name="showfrag">Show Fragment</string>
-    <string name="removeframent">Remove Fragment</string>
-</resources>

@@ -1,0 +1,9 @@
+
+cc_binary
+{
+    name: "ledToggle",
+    srcs: ["src/*.cpp",],
+    shared_libs: ["libc++",],
+    vendor: true    
+
+}

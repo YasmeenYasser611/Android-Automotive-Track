@@ -1,0 +1,10 @@
+cc_library_shared
+{
+    name: "gpiolib",
+    srcs: ["src/*.cpp",],
+    include_dirs: ["vendor/iti/LIBS/LIBS_GPIO_HAL/inc",],
+    shared_libs: ["libc++",],
+    vendor: true
+}
+
+
